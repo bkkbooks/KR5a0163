@@ -1,0 +1,76 @@
+canonical_identifier: bkk:krp/KR5a0163/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5a0163/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 易象圖說外篇
+  date: '2015-08-28 23:39:22.252969'
+  source:
+    repository: kanripo
+    path: KR5a0163
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0163_000-ZTDZ.yaml, hash: 'sha256:623eee5f8c00f189efdaefc0bfeb6403732d555dbf46d55f9722e9a6d48f833b'}
+  - {seq: 1, filename: KR5a0163_001-ZTDZ.yaml, hash: 'sha256:8a9d18c74f51f2d85b76bb06c74b7aea1ce6ebc2a8f4d2a16fdd88876fbc3b2b'}
+  - {seq: 2, filename: KR5a0163_002-ZTDZ.yaml, hash: 'sha256:2bce4a35a2e9f27a819a968b8d3a9c46a74c63c00c15daf1b887dfdedce6472c'}
+  - {seq: 3, filename: KR5a0163_003-ZTDZ.yaml, hash: 'sha256:df3746333630b6327f5fe74c9fbea65ae4567a414720f0a501b79f990b370787'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0163_000-ZTDZ.markers.yaml, hash: 'sha256:4dcbf94a59d87fc63c51bc58123171dade6db46650a8b414782a8011510d68d3'}
+  - {seq: 1, role: markers, filename: assets/KR5a0163_001-ZTDZ.markers.yaml, hash: 'sha256:c5dc9a268c11d0ed170819bc74312195ccf93eb1cd9ca5cc54b02f23b8f8fc72'}
+  - {seq: 2, role: markers, filename: assets/KR5a0163_002-ZTDZ.markers.yaml, hash: 'sha256:3d2f638116e22404946ed937f40ea3278a6a55f876d3c9609452e71ffd2e0389'}
+  - {seq: 3, role: markers, filename: assets/KR5a0163_003-ZTDZ.markers.yaml, hash: 'sha256:7a6927a357f250a52004b858de52781c35267c4961a3fee64c68b5fef06f1ad6'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 0
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5a0163_SJB_001-030241c
+    span:
+    - body
+    - 0
+    - 3233
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5a0163_SJB_002-030245c
+    span:
+    - body
+    - 0
+    - 4478
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5a0163_SJB_003-030251a
+    span:
+    - body
+    - 0
+    - 5887
+  label: juan 003
+  type: section
+  level: 1
+hash: sha256:9f833f2f402a77dc0184948452884be2e058771d4cb336cd6868805631960c91

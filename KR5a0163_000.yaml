@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5a0163/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 易象圖說外篇
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-28 23:39:22.252969'
+  source:
+    repository: kanripo
+    path: KR5a0163/KR5a0163_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:09fdfcff5cfc424f7b11335c27d9847448351a93c7380e1ffd2a2c22b79bc80f
